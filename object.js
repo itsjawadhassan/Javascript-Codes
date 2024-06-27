@@ -1,6 +1,6 @@
 const person = {
-firstname: Jawad,
-secondname: Hassan,
+firstname: 'Jawad',
+secondname: 'Hassan',
 age: 20,
 hobbies: ['swim','run','football'],
 address: {
