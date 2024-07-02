@@ -1,0 +1,17 @@
+
+h1{
+    background-color: brown;
+    text-transform: uppercase;
+    
+}
+h2{
+    cursor: pointer;
+}
+body{
+    background-color:black;
+    color: aliceblue;
+}
+a {
+    text-decoration: line-through;
+    color: #999;
+}
